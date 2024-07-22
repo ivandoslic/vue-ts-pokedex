@@ -1,4 +1,4 @@
-# simple-social-media-app
+# Pokedex in Vue3 (TypeScript)
 
 This template should help get you started developing with Vue 3 in Vite.
 
