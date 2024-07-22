@@ -1,0 +1,11 @@
+:root {
+    --app-primary-surface: #edf2f4;
+    --app-on-primary-surface: #2b2d42;
+    --app-dark-red: #d80032;
+    --app-medium-red: #ef233c;
+    --app-gray: #8d99ae;
+    --app-orange: #ffc042;
+    --sidebar-width: 25%;
+    --collapsed-sidebar-width: 2%;
+    --card-width: 40%;
+}
